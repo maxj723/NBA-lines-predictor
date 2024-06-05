@@ -1,7 +1,7 @@
 # NBA lines predictor
 
 ### Library of scripts to predict NBA stat lines
-- points_predictor.ipynb: team points based off team stats and opponent stats
+- **points_predictor.ipynb:** predict total team points based off team stats and opponent stats
 - more to be added soon
 
 ### Additional Info
