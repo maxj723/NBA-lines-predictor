@@ -14,3 +14,7 @@ Libraries used: pytorch, sklearn, pandas, numpy
 ### Purpose: 
 - help me learn machine learning through application
 - discover possible (assumedly positive EV) bets/props through betting line discrepencies
+
+#### Note:
+
+This repo may not include all models due to an independent contractor agreement
